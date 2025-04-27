@@ -9,17 +9,17 @@
   "hireMeLink": "https://www.linkedin.com/in/akg08/",
   "skills" : [
     {
-      "React" : "/src/assets/react.png",
-      "Express" : "/src/assets/express.png",
-      "MongoDb" : "/src/assets/mongodb.png",
-      "Nodejs" : "/src/assets/nodejs.png",
-      "C++" : "/src/assets/c++.png",
-      "Python" : "/src/assets/python.png",
-      "JavaScript" : "/src/assets/js.png",
-      "Tailwind" : "/src/assets/tailwind.png",
-      "MySQL" : "/src/assets/mysql.png",
-      "GitHub" : "/src/assets/github.png",
-      "Postman" : "/src/assets/postman.png"
+      "React" : "/images/react.png",
+      "Express" : "/images/express.png",
+      "MongoDb" : "/images/mongodb.png",
+      "Nodejs" : "/images/nodejs.png",
+      "C++" : "/images/c++.png",
+      "Python" : "/images/python.png",
+      "JavaScript" : "/images/js.png",
+      "Tailwind" : "/images/tailwind.png",
+      "MySQL" : "/images/mysql.png",
+      "GitHub" : "/images/github.png",
+      "Postman" : "/images/postman.png"
     }
   ],
   "projects": [
@@ -28,35 +28,35 @@
       "project-desc": "Itinerary planner",
       "git-repo" : "https://github.com/ayush08kg/React-Planner.git",
       "demo" : "https://plan-genie.vercel.app/",
-      "img-src" : "/src/assets/plangenie.png"
+      "img-src" : "/images/plangenie.png"
     },
     {
       "project-name": "SockChat",
       "project-desc": "Real time Chat Application",
       "git-repo" : "https://github.com/ayush08kg/MsgAPP.git",
       "demo" : "https://msgapp-nzoa.onrender.com",
-      "img-src" : "/src/assets/sockchat.png"
+      "img-src" : "/images/sockchat.png"
     },
     {
       "project-name": "AI-Cruit",
       "project-desc": "Major Project : AI based Interview Prep",
       "git-repo" : "https://github.com/ayush08kg/MajorPro-Interview.git",
       "demo" : "https://careercraft-cruit.vercel.app/",
-      "img-src" : "/src/assets/aicruit.png"
+      "img-src" : "/images/aicruit.png"
     },
     {
       "project-name": "Hisaab-Hawk",
       "project-desc": "Split Application - Easily figure out who needs to pay whom",
       "git-repo" : "https://github.com/ayush08kg/SplitWeb.git",
       "demo" : "https://hisaab-hawk.vercel.app/",
-      "img-src" : "/src/assets/hisaabhawk.png"
+      "img-src" : "/images/hisaabhawk.png"
     },
     {
       "project-name": "Optimistic Air",
       "project-desc": "Group project: Detecting depression through audio-visual cues",
       "git-repo" : "https://github.com/ayush08kg/optimistic-air.git",
       "demo" : "https://optimistic-air.netlify.app",
-      "img-src" : "/src/assets/optimisticair.png"
+      "img-src" : "/images/optimisticair.png"
     },
     {
       "project-name": "Attend Track",
@@ -83,7 +83,7 @@
   "experience" : [
     {
       "org-name" : "Indian Council Of Medical Research",
-      "org-logo" : "/src/assets/icmr.png",
+      "org-logo" : "/images/icmr.png",
       "type" : "Internship", 
       "position" : "Technical Intern",
       "desc" : "Worked on data refinement and API testing using Postman and MySQL at ICMR. Contributed to improving data consistency by 20% and supported frontend dashboard enhancements using JavaScript and React for internal portals.",
