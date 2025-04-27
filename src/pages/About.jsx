@@ -20,7 +20,7 @@ export default function About() {
           </p>
           <img
             className="border rounded-xl p-3 cursor-pointer shadow-md hover:scale-105 transition-all"
-            src="src/assets/akg-bg.png"
+            src="/images/akg-bg.png"
             alt=""
           />
         </div>
